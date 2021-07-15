@@ -20,12 +20,3 @@ Part 3 works with article metadata (article title, author, timestamp, length of 
 `search_tests.py`: unit and integration tests
 
 `search_tests_helper.py`: helper functions for unit and integration tests
-
-#### Ownership
-I wrote: 
-
-`search.py`: all function definitions other than `display_result()`.
-
-`search_tests.py`: all function definitions between `Write tests below this line` and `Write tests above this line` as well as calling those functions in `main`.
-
-All other functions and files written by [Andrea Wu](https://github.com/andreaowu) for Fisk University during Google in Residence, Fall 2020.
